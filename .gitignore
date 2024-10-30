@@ -1,0 +1,72 @@
+# Этот файл .gitignore должен быть размещен в корне вашего проекта Unity
+#
+# Получить последнюю версию можно по адресу: https://github.com/github/gitignore/blob/main/Unity.gitignore
+#
+/Test task for Studioakd/[Ll]ibrary/
+/Test task for Studioakd/[Tt]emp/
+/Test task for Studioakd/[Oo]bj/
+/Test task for Studioakd/[Bb]uild/
+/Test task for Studioakd/[Bb]uilds/
+/Test task for Studioakd/[Ll]ogs/
+/Test task for Studioakd/[Uu]ser[Ss]ettings/
+
+# MemoryCaptures могут занимать слишком много места.
+# Они также могут содержать крайне чувствительные данные.
+/Test task for Studioakd/[Mm]emoryCaptures/
+
+# Записи могут занимать слишком много места.
+/Test task for Studioakd/[Rr]ecordings/
+
+# Раскомментируйте эту строку, если хотите игнорировать плагин инструментов магазина активов
+# /Test task for Studioakd/[Aa]ssets/AssetStoreTools*
+
+# Автогенерируемый плагин Jetbrains Rider
+/Test task for Studioakd/[Aa]ssets/Plugins/Editor/JetBrains*/
+
+# Каталог кеша Visual Studio
+/Test task for Studioakd/.vs/
+
+# Каталог кеша Gradle
+/Test task for Studioakd/.gradle/
+
+# Автогенерируемые файлы решения и проекта VS/MD/Consulo
+/Test task for Studioakd/ExportedObj/
+/Test task for Studioakd/.consulo/
+/Test task for Studioakd/*.csproj
+/Test task for Studioakd/*.unityproj
+/Test task for Studioakd/*.sln
+/Test task for Studioakd/*.suo
+/Test task for Studioakd/*.tmp
+/Test task for Studioakd/*.user
+/Test task for Studioakd/*.userprefs
+/Test task for Studioakd/*.pidb
+/Test task for Studioakd/*.booproj
+/Test task for Studioakd/*.svd
+/Test task for Studioakd/*.pdb
+/Test task for Studioakd/*.mdb
+/Test task for Studioakd/*.opendb
+/Test task for Studioakd/*.VC.db
+
+# Сгенерированные метафайлы Unity3D
+/Test task for Studioakd/*.pidb.meta
+/Test task for Studioakd/*.pdb.meta
+/Test task for Studioakd/*.mdb.meta
+
+# Файл, сгенерированный Unity3D при сбоях
+/Test task for Studioakd/sysinfo.txt
+
+# Сборки
+/Test task for Studioakd/*.apk
+/Test task for Studioakd/*.aab
+/Test task for Studioakd/*.unitypackage
+/Test task for Studioakd/*.app
+
+# Файл, сгенерированный Crashlytics
+/Test task for Studioakd/crashlytics-build.properties
+
+# Упакованные Addressables
+/Test task for Studioakd/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# Временные автогенерируемые Android Assets
+/Test task for Studioakd/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/Test task for Studioakd/[Aa]ssets/[Ss]treamingAssets/aa/*
