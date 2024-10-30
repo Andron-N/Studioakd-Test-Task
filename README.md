@@ -1,10 +1,11 @@
-# Test-task-for-Studioakd
-Test task for Studioakd
+## Тестовое задание для Studioakd
 
-Move: WASD keys
-Crouch: Left Ctrl
-Jump: Space
-Look: Mouse
-Interact (open gate): F key
-Pick up/Drop item: E key
-Throw item (if in hand): Q key
+Управление:
+
+• Движение: WASD
+• Приседание: Left Ctrl
+• Прыжок: Space
+• Обзор: Мышь
+• Взаимодействие (открыть ворота): F
+• Поднять/Опустить предмет: E
+• Бросить предмет (если в руке): Q 
